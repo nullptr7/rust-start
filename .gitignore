@@ -1,3 +1,6 @@
-/target
+**/target/**
 .vs/**
 .idea/**
+*.exe
+*.pdb
+Cargo.lock
